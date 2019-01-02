@@ -1,0 +1,11 @@
+[package]
+name = "crate2"
+version = "0.1.0"
+authors = ["calebcartwright <caleb.cartwright@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+name = "crate2"
+path = "lib.rs"
