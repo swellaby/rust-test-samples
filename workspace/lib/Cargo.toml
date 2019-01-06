@@ -1,7 +1,7 @@
 [package]
 name = "lib"
 version = "0.1.0"
-authors = ["calebcartwright <caleb.cartwright@outlook.com>"]
+authors = ["Swellaby <opensource@swellaby.com>"]
 edition = "2018"
 
 [dependencies]
