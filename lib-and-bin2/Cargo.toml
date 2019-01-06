@@ -1,0 +1,15 @@
+[package]
+name = "lib-and-bin2"
+version = "0.1.0"
+authors = ["calebcartwright <caleb.cartwright@outlook.com>"]
+edition = "2018"
+
+[lib]
+name = "mylib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mybin"
+path = "src/main.rs"
+
+[dependencies]
